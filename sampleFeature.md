@@ -11,13 +11,13 @@ Designs: link to design repository
 
 |Service                        | API                     |
 |-------------------------------|-------------------------|
-|e.g name of CMS                | e.g service request     |
-|e.g name of dependant service  | e.g service request     |
+|name of CMS                    | service request         |
+|name of dependant service      | service request         |
 
 
 ### Generic Acceptance Criteria
 
-- IT Should display product:
+- [ ] IT Should display product:
   - [ ]  ID
   - [ ]  Type
   - [ ]  Name
