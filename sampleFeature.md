@@ -25,6 +25,7 @@ Designs: link to design repository
   - [ ]  Image
   
 - [ ] IT should display products of type A first
+- [ ] IT Should display products by date added date
 - [ ] IT should only show products which are available
 - [ ] IT should not display any products where one or more details are missing
 
