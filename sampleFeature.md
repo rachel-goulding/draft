@@ -4,7 +4,7 @@ As a
 I would like  
 So that
 
-Jira: jira url
+Jira: jira url  
 Designs: link to design repository
 
 ### Data
