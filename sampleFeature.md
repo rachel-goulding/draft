@@ -4,10 +4,10 @@ As a
 I would like  
 So that
 
-JIRA REF: jira url
+Jira: jira url
 Designs: link to design repository
 
-### DATA
+### Data
 
 |Service                        | API                     |
 |-------------------------------|-------------------------|
