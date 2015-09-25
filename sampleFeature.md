@@ -17,7 +17,7 @@ Designs: link to design repository
 
 ### Generic Acceptance Criteria
 
-- [/] IT Should display product:
+- [x] IT Should display product:
   - [ ]  ID
   - [ ]  Type
   - [ ]  Name
