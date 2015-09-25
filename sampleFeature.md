@@ -18,11 +18,11 @@ Designs: link to design repository
 ### Generic Acceptance Criteria
 
 - [x] IT Should display product:
-  - [ ]  ID
-  - [ ]  Type
-  - [ ]  Name
-  - [ ]  Description
-  - [ ]  Image
+  - [x]  ID
+  - [x]  Type
+  - [x]  Name
+  - [x]  Description
+  - [x]  Image
   
 - [ ] IT should display products of type A first
 - [ ] IT Should display products by date added date
