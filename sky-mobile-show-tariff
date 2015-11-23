@@ -1,0 +1,37 @@
+# *Show Tariff*
+
+As a Sky Mobile Customer
+I would like to view the available tariffs
+So that i understand what tariffs i can purchase
+
+Jira: http://jira-psp.cg.bskyb.com/browse/SM-161
+Designs: TBC
+
+### Tariff Data
+
+|Service                        | API                     |
+|-------------------------------|-------------------------|
+|SAL Request Available Tariff   | service request         |
+
+|Name                           | Value                   | M/O/C  |Example     |
+|-------------------------------|-------------------------|--------|------------|
+|                               |                         |        |            |
+
+
+### Generic Acceptance Criteria
+
+- [x] IT Should 
+
+### Device Specific Acceptance criteria
+
+- [ ] IT Should 
+
+### Error Handling Acceptance Criteria
+
+- [ ]  IT Should display 
+- [ ]  IT Should provide a link to the parent page 
+
+### Reporting Acceptance Crteria
+
+- [ ] IT Should apply tags to capture the following events:
+
